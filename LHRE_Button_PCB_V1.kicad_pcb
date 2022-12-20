@@ -1550,7 +1550,7 @@
     (property "Sheetname" "SEPIC_CAD")
     (path "/c5fabb54-4989-410e-adf5-532e3b8ac71e/1915c153-0f75-42db-95f6-68d4266d6a40")
     (attr smd)
-    (fp_text reference "Q1" (at 0 0 180) (layer "F.SilkS")
+    (fp_text reference "Q1" (at -0.4572 -3.81 180) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 4f34cf23-9b43-47f1-ad2c-260614e51c02)
     )
