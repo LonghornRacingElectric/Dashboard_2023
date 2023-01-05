@@ -367,7 +367,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "LHRE_Button_PCB_V1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -418,10 +418,6 @@
     [
       "c5fabb54-4989-410e-adf5-532e3b8ac71e",
       "SEPIC_CAD"
-    ],
-    [
-      "31726f4b-d616-40bc-9705-49baa77274d9",
-      "SEPIC_CAD_R"
     ]
   ],
   "text_variables": {}
