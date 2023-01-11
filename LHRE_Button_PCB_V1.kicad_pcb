@@ -329,14 +329,14 @@
     (pad "12" thru_hole circle locked (at 7.62 0 90) (size 1.354 1.354) (drill 0.79) (layers *.Cu *.Mask)
       (net 68 "SW5_IN") (pintype "passive") (tstamp aa88d6c4-1711-4513-8b39-e287019d69ed))
     (model "1825360-4.stp"
-      (offset (xyz 3.969999969 -6.349999809 4.920000002))
+      (offset (xyz 3.97 -6.35 -5.3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -1169,9 +1169,9 @@
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -1292,9 +1292,9 @@
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -1648,9 +1648,9 @@
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -2830,9 +2830,9 @@
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
@@ -3177,9 +3177,9 @@
       (rotate (xyz 0 0 -90))
     )
     (model "/Users/victorguzman/Downloads/LIB_1825360-4/1825360-4/3D/1825360-4.stp"
-      (offset (xyz 3.8 -6.36 4.5))
+      (offset (xyz 3.8 -6.36 -5.3))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 90))
+      (rotate (xyz 0 180 90))
     )
   )
 
